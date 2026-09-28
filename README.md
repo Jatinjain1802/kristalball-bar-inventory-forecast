@@ -30,4 +30,5 @@ The notebook has been executed and includes output and figures. It writes `illus
 - `bar_inventory_movements.csv`: unchanged CSV export of supplied source
 - `illustrative_recommendations.csv`: generated examples for all 96 series
 - `report.pdf`: two-page assessment write-up
-- `demo_walkthrough.md`: outline to help Jatin record his own 3-5 minute video
+- `demo_walkthrough.md`: outline for recording a 3-5 minute walkthrough video
+
